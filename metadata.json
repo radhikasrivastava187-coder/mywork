@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - Modern Weather",
+  "description": "A beautiful glassmorphic weather application featuring real-time mock data, animated weather effects, and hourly forecasts for global locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
